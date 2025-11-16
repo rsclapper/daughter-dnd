@@ -129,7 +129,7 @@
 - Speaks in medical terms when discussing injuries
 - Has a habit of organizing things while talking
 - Shows genuine excitement when discussing magical phenomena
-
+T
 ### Her Goals
 - **Immediate**: Profitable business transaction
 - **Secondary**: Learn about the interesting artifact you're carrying

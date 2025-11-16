@@ -120,7 +120,7 @@
 ## Crowd Dispersal
 
 **Read**:
-> *The crowd begins to disperse, still buzzing with excitement. People pat you on the back as they pass. Merchants wave. Children ask for autographs on scraps of paper.*
+> *The crowd begins to disperse, still buzzing with excitement. People pat you on the back as they pass. Merchants wave. Children ask for autographs on scraps of paper.* no autographs
 >
 > *But you notice: several people look nervous when they see the Codices. A few make warding gestures. And in the corner of your eye, you catch Professor Maellin watching from an alley—he looks worse than before, thinner, pale. He nods once, then disappears into the crowd.*
 
