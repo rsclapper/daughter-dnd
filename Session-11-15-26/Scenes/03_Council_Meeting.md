@@ -370,3 +370,6 @@
 **Mood Shift**: Political tension → Calm before storm
 
 **Important**: Note their decision in your session log—it affects everything going forward!
+
+
+They decided to go with flameguard valut
